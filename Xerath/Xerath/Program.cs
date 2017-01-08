@@ -12,7 +12,7 @@ namespace Xerath
         static void Main(string[] args)
         {
             Loading.OnLoadingComplete += OnLoadingComplete;
-       
+       //chaos teach me some of ur coding skillz
 
 
         }
